@@ -19,7 +19,7 @@
 * Computer Vision
 * Backend Development
 * Data Analytics
----
+
 # 🚀 Currently strengthening my skills in Python, Django, PostgreSQL, and AI-powered applications while working on practical projects and exploring emerging technologies.
 
 ---
