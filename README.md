@@ -54,19 +54,19 @@
 * Software Development Best Practices
 
 ---
-#🎓 Education
+###🎓 Education
 
-Master of Computer Applications (MCA)
+##Master of Computer Applications (MCA)
 
 Mar Athanasius College of Engineering, Kothamangalam
 
-B.Sc. Mathematics
+##B.Sc. Mathematics
 
 Mes Kalladi College,Mannarkkad, Palakkad
 
 ---
 
-#🤎 Let's Connect
+###🤎 Let's Connect
 
 📧 Email: fathimarinshak745@gmail.com
 
@@ -75,4 +75,4 @@ Mes Kalladi College,Mannarkkad, Palakkad
 💻 GitHub: https://github.com/fathima-rinsha-k745
 
 
-### ✨ "Learning today, building tomorrow."
+      ### ✨ "Learning today, building tomorrow."
