@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hey, I'm Fathima Rinsha K👋
 
-<!--
-**fathima-rinsha-k745/fathima-rinsha-k745** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Scientist | Python Developer | MCA Student
 
-Here are some ideas to get you started:
+💡 Passionate about Artificial Intelligence, Python development, and building innovative solutions that combine technology with real-world impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+🎓 Pursuing Master of Computer Applications (MCA) at Mar Athanasius College of Engineering.
+
+💼 Python & Django Developer Intern at ZLAQA AI Labs.
+
+🤖 Aspiring Data scientist with a strong interest in:
+
+* Artificial Intelligence
+* Machine Learning
+* Computer Vision
+* Backend Development
+* Data Analytics
+#🚀 Currently strengthening my skills in Python, Django, PostgreSQL, and AI-powered applications while working on practical projects and exploring emerging technologies.
+
+---
+☕ Tech Stack
+
+#Programming Languages
+Python
+JavaScript
+SQL
+#Frameworks & Libraries
+Django
+React.js
+OpenCV
+MediaPipe
+#Databases
+PostgreSQL
+SQLite
+#Tools & Platforms
+Git
+GitHub
+VS Code
+
+## 📚 Currently Learning
+
+* Django & Backend Development
+* PostgreSQL
+* Machine Learning Fundamentals
+* AI Applications
+* REST APIs
+* Software Development Best Practices
+
+---
+#🎓 Education
+
+Master of Computer Applications (MCA)
+
+Mar Athanasius College of Engineering, Kothamangalam
+
+B.Sc. Mathematics
+
+Mes Kalladi College,Mannarkkad, Palakkad
+---
+
+#🤎 Let's Connect
+
+📧 Email: fathimarinshak745@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/fathima-rinsha-k-173ab3348/
+
+💻 GitHub: https://github.com/fathima-rinsha-k745
+
+
+### ✨ "Learning today, building tomorrow."
