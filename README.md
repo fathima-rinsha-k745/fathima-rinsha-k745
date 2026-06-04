@@ -60,6 +60,7 @@ Mar Athanasius College of Engineering, Kothamangalam
 B.Sc. Mathematics
 
 Mes Kalladi College,Mannarkkad, Palakkad
+
 ---
 
 #🤎 Let's Connect
