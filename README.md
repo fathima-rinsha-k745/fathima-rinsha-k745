@@ -22,24 +22,27 @@
 #🚀 Currently strengthening my skills in Python, Django, PostgreSQL, and AI-powered applications while working on practical projects and exploring emerging technologies.
 
 ---
-☕ Tech Stack
+## 🛠️ Tech Stack
 
-#Programming Languages
-Python
-JavaScript
-SQL
-#Frameworks & Libraries
-Django
-React.js
-OpenCV
-MediaPipe
-#Databases
-PostgreSQL
-SQLite
-#Tools & Platforms
-Git
-GitHub
-VS Code
+### Programming Languages
+- Python
+- JavaScript
+- SQL
+
+### Frameworks & Libraries
+- Django
+- React.js
+- flask
+
+### Databases
+- PostgreSQL
+- SQLite
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ## 📚 Currently Learning
 
